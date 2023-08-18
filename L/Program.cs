@@ -10,6 +10,8 @@ class Program
         Console.WriteLine("char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes");
         Console.WriteLine("string - stores text, such as \"Hello World\". String values are surrounded by double quotes");
         Console.WriteLine("bool - stores values with two states: true or false");
+        string name = "John";
+        Console.WriteLine(name);
 
     }
 }

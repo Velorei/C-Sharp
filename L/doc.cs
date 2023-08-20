@@ -37,6 +37,11 @@ namespace MyApplication
             b = c = d = 50;
             Console.WriteLine(b + c + d);
 
+            // Good
+            int minutesPerHour = 60;
+
+            // OK, but not so easy to understand what m actually is
+            int m = 60;
         }
     }
 }

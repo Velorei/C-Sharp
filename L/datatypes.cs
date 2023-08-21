@@ -18,7 +18,8 @@ namespace MyApplication
             Console.WriteLine(myBool);
             Console.WriteLine(myText);
 
-
+            int myNum1 = 100000;
+            Console.WriteLine(myNum1);
         }
     }
 }
